@@ -34,7 +34,7 @@ Works automatically in the background with **macOS notifications**, **sound aler
 
 ```bash
 git clone https://github.com/AkhilBod/TopHat-QuickASK.git
-cd tophat-notification-bot
+cd TopHat-QuickASK
 ```
 
 2. **Install Python dependencies:**
