@@ -33,7 +33,7 @@ Works automatically in the background with **macOS notifications**, **sound aler
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/tophat-notification-bot.git
+git clone https://github.com/AkhilBod/TopHat-QuickASK.git
 cd tophat-notification-bot
 ```
 
@@ -60,7 +60,7 @@ pip install selenium
 5. **Run the bot:**
 
 ```bash
-python3 bot.py
+python3 app.py
 ```
 
 ---
